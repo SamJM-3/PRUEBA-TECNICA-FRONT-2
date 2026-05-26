@@ -17,4 +17,4 @@ npm run dev
 ```
 
 ## Deploy
-https://prueba-técnica-front-2-6xydnec4m-samjm-3s-projects.vercel.app
+https://prueba-tecnica-front-2-git-main-samjm-3s-projects.vercel.app
