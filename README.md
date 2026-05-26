@@ -17,4 +17,4 @@ npm run dev
 ```
 
 ## Deploy
-(https://TU-URL.vercel.app)
+prueba-técnica-front-2-6xydnec4m-samjm-3s-projects.vercel.app
